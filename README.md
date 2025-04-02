@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 💬 Ask me about **react,next.js, flutter**
+- 💬 Ask me about **react, next.js, Flutter, MongoDB, MY sql, Firebase **
 
 - 📫 How to reach me **radithyugan22@gmail.com**
 
